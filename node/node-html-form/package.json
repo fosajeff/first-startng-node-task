@@ -1,0 +1,19 @@
+{
+  "name": "node-html-form",
+  "version": "1.0.0",
+  "description": "Handling form submittion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fosajeff/fosajeff.git"
+  },
+  "author": "Efosa Jeffrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fosajeff/fosajeff/issues"
+  },
+  "homepage": "https://github.com/fosajeff/fosajeff#readme"
+}
